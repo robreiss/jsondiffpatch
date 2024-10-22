@@ -14,9 +14,9 @@ logs
 results
 coverage
 .nyc_output
-dist
-build
-lib
+# dist
+# build
+# lib
 
 npm-debug.log
 .idea/
